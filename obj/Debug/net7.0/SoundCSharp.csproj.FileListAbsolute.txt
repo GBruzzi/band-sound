@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code\SoundCSharp\bin\Debug\net7.0\SoundCSharp.exe
+C:\Users\User\Desktop\Code\SoundCSharp\bin\Debug\net7.0\SoundCSharp.deps.json
+C:\Users\User\Desktop\Code\SoundCSharp\bin\Debug\net7.0\SoundCSharp.runtimeconfig.json
+C:\Users\User\Desktop\Code\SoundCSharp\bin\Debug\net7.0\SoundCSharp.dll
+C:\Users\User\Desktop\Code\SoundCSharp\bin\Debug\net7.0\SoundCSharp.pdb
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.dll
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\refint\SoundCSharp.dll
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.pdb
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\SoundCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\Code\SoundCSharp\obj\Debug\net7.0\ref\SoundCSharp.dll
